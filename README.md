@@ -18,7 +18,7 @@ Online shoppers generally go through other people's reviews of a specific produc
 - Helpful Ratio came out to be the most crucial feature. It is intuitive also as a person who generally has written helpful reviews(given the advancement in the E-Commerce most of the users have some history) in the past will continue to do so. 
 
 ## References
--The project's basis is a research paper titled 'Utility Scoring of Product Reviews' by Zhu Zhang and Balaji Varadarajan. 
+- The project's basis is a research paper titled 'Utility Scoring of Product Reviews' by Zhu Zhang and Balaji Varadarajan. 
 - Taking the inspiration from the past work, we have incorporated a few more features such as 'helpful ratio' and tried out better available regression models. 
 - You can check 'References' for analysis of the past work.
 
