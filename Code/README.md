@@ -9,7 +9,6 @@ To run the project, download and unzip the [JSON](http://snap.stanford.edu/data/
 - [06-Select Models](06-Select%20Models): This step is to compare and tune different regression models. 
 - [07-Final Models](07-Final%20Models): This step trains the selected models from the above step. 
 - [08-Visualize Utility Score](08-Visualize%20Utility%20Score): This step is to visualize and analyze the utility score predicted by the model. You can add more visualization as per need.
-- 
 
 ## Markdown Tree
 
